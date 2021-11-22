@@ -20,7 +20,7 @@ limitations under the License.
 
 # ssumors
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Calculate the sum of single-precision floating-point strided array elements using ordinary recursive summation.
 
@@ -181,12 +181,12 @@ console.log( v );
 
 ## See Also
 
--   [`@stdlib/blas/ext/base/dsumors`][@stdlib/blas/ext/base/dsumors]: calculate the sum of double-precision floating-point strided array elements using ordinary recursive summation.
--   [`@stdlib/blas/ext/base/gsumors`][@stdlib/blas/ext/base/gsumors]: calculate the sum of strided array elements using ordinary recursive summation.
--   [`@stdlib/blas/ext/base/snansumors`][@stdlib/blas/ext/base/snansumors]: calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using ordinary recursive summation.
--   [`@stdlib/blas/ext/base/ssum`][@stdlib/blas/ext/base/ssum]: calculate the sum of single-precision floating-point strided array elements.
--   [`@stdlib/blas/ext/base/ssumkbn2`][@stdlib/blas/ext/base/ssumkbn2]: calculate the sum of single-precision floating-point strided array elements using a second-order iterative Kahan–Babuška algorithm.
--   [`@stdlib/blas/ext/base/ssumpw`][@stdlib/blas/ext/base/ssumpw]: calculate the sum of single-precision floating-point strided array elements using pairwise summation.
+-   <span class="package-name">[`@stdlib/blas/ext/base/dsumors`][@stdlib/blas/ext/base/dsumors]</span><span class="delimiter">: </span><span class="description">calculate the sum of double-precision floating-point strided array elements using ordinary recursive summation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/gsumors`][@stdlib/blas/ext/base/gsumors]</span><span class="delimiter">: </span><span class="description">calculate the sum of strided array elements using ordinary recursive summation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/snansumors`][@stdlib/blas/ext/base/snansumors]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using ordinary recursive summation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/ssum`][@stdlib/blas/ext/base/ssum]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/ssumkbn2`][@stdlib/blas/ext/base/ssumkbn2]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements using a second-order iterative Kahan–Babuška algorithm.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/ssumpw`][@stdlib/blas/ext/base/ssumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements using pairwise summation.</span>
 
 </section>
 
@@ -237,8 +237,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-ext-base-ssumors/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-ext-base-ssumors?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/blas-ext-base-ssumors.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/blas-ext-base-ssumors/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
