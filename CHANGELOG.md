@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-13)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`1f596cb`](https://github.com/stdlib-js/stdlib/commit/1f596cb9bd3a26c2a7a82ab578d460f88df8dea5) - **feat:** add C `ndarray` API and refactor `blas/ext/base/ssumors` [(#3891)](https://github.com/stdlib-js/stdlib/pull/3891) _(by Snehil Shah)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
@@ -36,9 +37,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 -   Snehil Shah
 
 </section>
@@ -79,7 +81,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`61bba7a`](https://github.com/stdlib-js/stdlib/commit/61bba7abbae8924dc615773a7e74daf920570c19) - **fix:** update include path _(by Athan Reines)_
 -   [`78f03b5`](https://github.com/stdlib-js/stdlib/commit/78f03b5b21b82ba088a3fac0275faa6cf24e81ac) - **fix:** use correct package names _(by Athan Reines)_
 -   [`bea0904`](https://github.com/stdlib-js/stdlib/commit/bea0904866d0e36557d9e72d8922833517dae522) - **fix:** update dependencies _(by Athan Reines)_
--   [`ef026dc`](https://github.com/stdlib-js/stdlib/commit/ef026dce8372e35dca6057e58e593d084da9a05b) - **refactor:** update `blas/ext/base/ssumors`  to follow current project conventions _(by Lovelin, Athan Reines, Philipp Burckhardt)_
+-   [`ef026dc`](https://github.com/stdlib-js/stdlib/commit/ef026dce8372e35dca6057e58e593d084da9a05b) - **refactor:** update `blas/ext/base/ssumors`  to follow current project conventions _(by Lovelin Dhoni J B, Athan Reines, Philipp Burckhardt)_
 
 </details>
 
@@ -94,7 +96,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Lovelin
+-   Lovelin Dhoni J B
 -   Philipp Burckhardt
 
 </section>
