@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-09)
+## Unreleased (2026-03-13)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8d13323`](https://github.com/stdlib-js/stdlib/commit/8d133232f414bf1c76d68d3b05152c103433c25e) - **bench:** refactor to use string interpolation in `blas/ext/base/ssumors` [(#10891)](https://github.com/stdlib-js/stdlib/pull/10891) _(by Partha Das)_
 -   [`8b5ae6f`](https://github.com/stdlib-js/stdlib/commit/8b5ae6ff28fa91a5494328a3a6481a0e855542ab) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/ssumors` [(#10775)](https://github.com/stdlib-js/stdlib/pull/10775) _(by Prajjwal Bajpai)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Partha Das
 -   Prajjwal Bajpai
 
 </section>
