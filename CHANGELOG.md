@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-30)
+## Unreleased (2026-08-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`22fe7a6`](https://github.com/stdlib-js/stdlib/commit/22fe7a64a77d8fecc54da41dac870f2249b0c731) - **bench:** update benchmarks to use decimal literals [(#13849)](https://github.com/stdlib-js/stdlib/pull/13849) _(by Karan Anand)_
 -   [`abe2e55`](https://github.com/stdlib-js/stdlib/commit/abe2e550ce8c29d07dc21901e5ba4221f941a300) - **build:** add wasm configurations [(#13771)](https://github.com/stdlib-js/stdlib/pull/13771) _(by Karan Anand, Athan Reines)_
 -   [`8d13323`](https://github.com/stdlib-js/stdlib/commit/8d133232f414bf1c76d68d3b05152c103433c25e) - **bench:** refactor to use string interpolation in `blas/ext/base/ssumors` [(#10891)](https://github.com/stdlib-js/stdlib/pull/10891) _(by Partha Das)_
 -   [`8b5ae6f`](https://github.com/stdlib-js/stdlib/commit/8b5ae6ff28fa91a5494328a3a6481a0e855542ab) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/ssumors` [(#10775)](https://github.com/stdlib-js/stdlib/pull/10775) _(by Prajjwal Bajpai)_
